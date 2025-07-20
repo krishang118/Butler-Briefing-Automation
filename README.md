@@ -14,7 +14,7 @@ This is an automated Python tool that compiles a personalized morning briefing a
 
 ## How to Run
 
-1. Make sure you have Python 3.8+ installed.
+1. Make sure that Python 3.8+ is installed.
 2. Clone this repository on your local machine.
 3. Get the Google Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey), and the OpenWeatherMap API Key from the [OpenWeatherMap Website](https://home.openweathermap.org/api_keys).
 4. To set up and get the 'Gmail App Password'; which is different from the normal 'Gmail Email Id Password', go to Google Account settings, navigate to the Security section and turn on 2-Step Verification if not already turned on (needed for getting the app password). In the 2-Step Verification section, scroll down to 'App passwords' and generate a new app password from there.
