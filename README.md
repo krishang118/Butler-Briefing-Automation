@@ -1,8 +1,9 @@
-# Morning Briefing Automation
+# Morning Briefing Automation Tool
 
 This is an automated Python tool that compiles a personalized morning briefing and delivers it to the email inbox. The briefing includes latest news headlines from BBC and Times of India, current weather for the city (via OpenWeatherMap), and recent unread emails from your Gmail inbox. All content is elegantly summarized using Google Gemini, with a touch of British butler charm.
 
 ## Features
+
 - Fetches and summarizes top news from multiple sources
 - Retrieves current weather conditions
 - Scans Gmail inbox for recent unread emails
@@ -11,7 +12,7 @@ This is an automated Python tool that compiles a personalized morning briefing a
 - Can be run immediately or scheduled to run daily at 7:00 AM IST
 - Robust error handling and logging
 
-## Setup Instructions
+## How to Run
 
 1. Make sure you have Python 3.8+ installed.
 2. Clone this repository on your local machine.
@@ -25,5 +26,10 @@ This is an automated Python tool that compiles a personalized morning briefing a
   ```
 Alternatively, you may also set up and use Cron Job (for Linux/Mac) or Window Task Scheduler (for Windows) for the same.
 
-Butler-Briefing-Automation
-A Python automation that emails a daily morning briefing with news, weather, and unread mail summaries, composed in the style of a British butler using Google Gemini.
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License. 
