@@ -24,7 +24,7 @@ This is an automated Python tool that compiles a personalized morning briefing a
   ```bash
   python "AI Agent.py" --schedule
   ```
-Alternatively, you may also set up and use Cron Job (for Linux/Mac) or Window Task Scheduler (for Windows) for the same.
+Alternatively, you can also set up and use Cron Job (for Linux/Mac) or Window Task Scheduler (for Windows) for the same.
 
 ## Contributing
 
