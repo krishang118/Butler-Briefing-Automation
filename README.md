@@ -19,10 +19,10 @@ This is an automated Python tool that compiles a personalized morning briefing a
 3. Get the Google Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey), and the OpenWeatherMap API Key from the [OpenWeatherMap Website](https://home.openweathermap.org/api_keys).
 4. To set up and get the 'Gmail App Password'; which is different from the normal 'Gmail Email Id Password', go to Google Account settings, navigate to the Security section and turn on 2-Step Verification if not already turned on (needed for getting the app password). In the 2-Step Verification section, scroll down to 'App passwords' and generate a new app password from there.
 5. Open the `config.json` template file present in the root directory, and fill the necessary credentials; those being the API Keys, the gmail email id, gmail app password, recipient email id (on which the briefing would be sent), and city name (and country code too if outside of India). Save the file.
-6. Open and run the first cell of the `AI Agent.ipynb` Jupyter Notebook file to install the required dependencies. Run the second cell to run the script for briefing generation immediately. 
-7. For schedule-running the automation, run the `AI Agent.py` file (it's the same code, just in a .py file):
+6. Open and run the first cell of the `AI Brief.ipynb` Jupyter Notebook file to install the required dependencies. Run the second cell to run the script for briefing generation immediately. 
+7. For schedule-running the automation, run the `AI Brief.py` file (it's the same code, just in a .py file):
   ```bash
-  python "AI Agent.py" --schedule
+  python "AI Brief.py" --schedule
   ```
 Alternatively, you can also set up and use Cron Job (for Linux/Mac) or Window Task Scheduler (for Windows) for the same.
 
