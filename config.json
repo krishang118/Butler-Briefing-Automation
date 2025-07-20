@@ -1,0 +1,12 @@
+{
+    "gemini_api_key": "-enter-here-",
+    "openweather_api_key": "-enter-here-",
+    "gmail_email": "-enter-here-",
+    "gmail_password": "-enter-here-",
+    "recipient_email": "-enter-here-",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "imap_server": "imap.gmail.com",
+    "city": "Delhi",
+    "country_code": "IN"
+}
