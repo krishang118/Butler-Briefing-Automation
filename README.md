@@ -24,7 +24,7 @@ This is an automated Python tool that compiles a personalized morning briefing a
   ```bash
   python "AI Brief.py" --schedule
   ```
-Alternatively, one can also set up and use Cron Job (for Linux/Mac) or Window Task Scheduler (for Windows) for the same.
+Alternatively, one can also set up and use Cron Job (for Linux/Mac) or Windows Task Scheduler (for Windows) for the same.
 
 ## Contributing
 
