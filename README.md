@@ -1,7 +1,7 @@
 # Morning Briefing Automation Tool
 
 This is an automated Python tool that compiles a personalized morning briefing and delivers it to the email inbox. The briefing includes latest news headlines from BBC and Times of India, current weather for the city (via OpenWeatherMap), and recent unread emails from the Gmail inbox. All content is elegantly summarized using Google Gemini, with a touch of British butler charm.
-
+ 
 ## Features
 
 - Fetches and summarizes top news from multiple sources
